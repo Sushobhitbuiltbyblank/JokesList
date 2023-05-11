@@ -1,0 +1,17 @@
+.DS_Store
+Pods/
+build/
+DerivedData/
+Podfile.lock
+*.pyc
+*.zip
+*.gitmodules
+build_path/
+build_products/
+upload_dsym_results
+*/*.xcodeproj/xcuserdata
+*.xcworkspace/xcuserdata
+*.xcodeproj/xcuserdata
+xcuserdata
+reports/
+
